@@ -1,0 +1,11 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Perez",
+  "license": "MIT"
+}
